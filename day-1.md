@@ -1,5 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ffe8d46-ff7a-4c5e-ae87-4da2dad92c6b" /># Daily Learning
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 -[ ] Check out the [github blog](https://github.blog/) for topic ideas.
 -[ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 -[ ] Convert my first blog post into an actual webpage.
